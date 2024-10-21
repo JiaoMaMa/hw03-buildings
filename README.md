@@ -1,5 +1,19 @@
 # CIS 5660 HW03 Procedural Buildings
 
+![image](https://github.com/user-attachments/assets/ed0bcfd6-5d1d-4027-8313-a5fe06d886f0)
+
+Box Stacking & Details:
+
+![image](https://github.com/user-attachments/assets/c1e50649-48bd-4ff6-b7af-50e21633346a)
+
+Pillar:
+
+![image](https://github.com/user-attachments/assets/c572689c-a8c0-493c-b772-7ddb81ef7b97)
+
+Support:
+![image](https://github.com/user-attachments/assets/1c693e3c-9626-413f-8558-2ea8340316c9)
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
