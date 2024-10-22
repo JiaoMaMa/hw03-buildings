@@ -7,6 +7,8 @@ In this project, I created a procedural multi-floor building generator in Houdin
 
 https://github.com/user-attachments/assets/16f4439b-b282-439f-86ba-60c067301c82
 
+Video Link: https://github.com/user-attachments/assets/16f4439b-b282-439f-86ba-60c067301c82
+
 Since I am very new to Houdini, I was mostly sticking to the provided tutorial. Overwatch is actually my favorite game so I was very happy with the style!
 
 ### Box Stacking & Details
